@@ -18,7 +18,7 @@
     "@types/mocha": "^2.2.41",
     "@types/node": "^8.0.14",
     "browserify": "^14.4.0",
-    "mocha": "^3.4.2",
+    "mocha": "^11.7.5",
     "ts-loader": "^2.3.0",
     "tsify": "^3.0.1",
     "typescript": "^2.4.1",
