@@ -14,7 +14,7 @@
     "license": "Unlicense",
     "dependencies": {
         "bluebird": "^3.5.0",
-        "request": "^2.81.0",
+        "request": "^2.88.2",
         "@types/bluebird": "*",
         "@types/request": "*",
         "rewire": "^3.0.2"
