@@ -11,7 +11,7 @@
     "build": "ng-packagr -p ng-package.json"
   },
   "peerDependencies": {
-    "@angular/core": "^4.0.0",
+    "@angular/core": "^20.3.25",
     "@angular/http": "^4.0.0",
     "@angular/common": "^4.0.0",
     "@angular/compiler": "^4.0.0",
@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@angular/compiler-cli": "^4.0.0",
-    "@angular/core": "^4.0.0",
+    "@angular/core": "^20.3.25",
     "@angular/http": "^4.0.0",
     "@angular/common": "^4.0.0",
     "@angular/compiler": "^4.0.0",
